@@ -1,4 +1,4 @@
-# conda env create --file DataMining.yml
+# conda env create --file conda_env_experimental_physics.yml
 name: experimental_physics
 channels:
     - conda-forge
