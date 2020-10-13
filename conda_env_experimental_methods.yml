@@ -21,4 +21,5 @@ dependencies:
 
     - pip:
     # works for regular pip packages
-       - wolframclient
+       - wolframclient # https://blog.wolfram.com/2019/05/16/announcing-the-wolfram-client-library-for-python/
+       - jupyter-kite # https://help.kite.com/article/143-how-to-install-the-jupyterlab-plugin
