@@ -17,7 +17,7 @@ For pdf exporting
 ## Homework assignment:
 
 #### Exercise 01 - Sampling Theorem
-28 settembre 2020
+28 September 2020
 
 This exercise aimed at explaining the critical point of choosing the right sampling frequency when performing a Shannon interpolation. The main difficulty of this exercise was to move from the theory to a practical application.
 
@@ -25,6 +25,10 @@ For this exercise is provided a Mathematica Notebook, but **only** the Jupyter n
 
 ---
 #### Exercise 02 - Pendulum
+13 October 2020
+
+This exercise aimed to be an introduction to linearization and to linear system. There were no intrinsic difficulties, but an oversight of mine lead to me doing all the calculation by hand. Apart from that the exercise was carried out without major problems.
+
 ---
 #### Exercise 03 - Pressure Transducer
 ---
