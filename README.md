@@ -31,6 +31,10 @@ This exercise aimed to be an introduction to linearization and to linear system.
 
 ---
 #### Exercise 03 - Pressure Transducer
+20 October 2020
+
+This exercise was an introduction to feedback loops and linearization limits.
+
 ---
 #### Exercise 04 - Bolometer
 ---
