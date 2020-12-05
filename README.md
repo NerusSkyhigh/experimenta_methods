@@ -37,8 +37,30 @@ This exercise was an introduction to feedback loops and linearization limits.
 
 ---
 #### Exercise 04 - Bolometer
+27 October 2020
+
+This exercise was made more difficult than expected due to a slip on the given value of the parameters. This made the in-classroom discussion hard to follow. The jupyter notebook is very similar to the one submitted and may contain some errors.
+
 ---
+
 #### Exercise 05 - Thermal Noise
+4 November 2020
+
+This exercise aimed at consolidating the use of PSD when dealing with noise. The first exercise was a simplified model for the _Resonant Gravitational Wave Detector AURIGA_ while the second was an electric circuit.
+
 ---
+
 #### Exercise 06 - Charge Detector
+10 November 2020
+
+---
+
+#### Exercise 07 - Radio-telescope
+24 November 2020
+
+---
+
+#### Exercise 08 - Mach-Zender interferometer motion sensor
+1 December 2020
+
 ---
