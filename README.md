@@ -1,8 +1,10 @@
 ## Experimental Methods 2020
 
-This repository contains my solutions to the homework assigned in the course "Experimental Methods" which I attended during my first year of the Master Course in Physics.
+This repository contains my solutions to the homework assigned in the course "Experimental Methods" which I attended during my first year of the Master Course in Physics. The main topics are:
 
-
+![Topic 1](images/key_topic_1.png)
+![Topic 2](images/key_topic_2.png)
+![Topic 3](images/key_topic_3.png)
 
 
 Programs needed:
@@ -62,5 +64,16 @@ This exercise aimed at consolidating the use of PSD when dealing with noise. The
 
 #### Exercise 08 - Mach-Zender interferometer motion sensor
 1 December 2020
+
+---
+
+---
+
+
+Before the exam a series of exercises were given in order to test our understanding. No discussion regarding these exercises was held so there may be some errors or miss misinterpretation.
+
+#### Exercise for the Exam 01 - Pressure Transducer
+
+This exercise is the same as "_Exercise 03 - Pressure Transducer_" and therefore no solution will be uploaded.
 
 ---
