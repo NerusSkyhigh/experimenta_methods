@@ -55,7 +55,7 @@ This exercise aimed at consolidating the use of PSD when dealing with noise. The
 #### Exercise 06 - Charge Detector
 10 November 2020
 
-The purpose of this exercise was to apply Wiener's optimal filter to a charge detector in order to evaluate the minimum charge detectable. It gave a practical interpretation of both the PSD and Wiener's mean square error. 
+The purpose of this exercise was to apply Wiener's optimal filter to a charge detector in order to evaluate the minimum charge detectable. It gave a practical interpretation of both the PSD and Wiener's mean square error. It further helped in understanding how to interpret a noise plot and how to get the most information out of it.
 
 ---
 
