@@ -1,4 +1,8 @@
+# To create an environment with all the libraries needed move the
+# anaconda command prompt (or equivalent) to this directory and type
+#
 # conda env create --file conda_env_experimental_physics.yml
+# 
 name: experimental_methods
 channels:
     - conda-forge
