@@ -62,6 +62,8 @@ The purpose of this exercise was to apply Wiener's optimal filter to a charge de
 #### Exercise 07 - Radio-telescope
 24 November 2020
 
+
+
 ---
 
 #### Exercise 08 - Mach-Zender interferometer motion sensor
@@ -74,8 +76,20 @@ The purpose of this exercise was to apply Wiener's optimal filter to a charge de
 
 Before the exam a series of exercises were given in order to test our understanding. No discussion regarding these exercises was held so there may be some errors or miss misinterpretation.
 
-#### Exercise for the Exam 01 - Pressure Transducer
 
+#### Exercise for the Exam 01 - Pressure Transducer
 This exercise is the same as "_Exercise 03 - Pressure Transducer_" and therefore no solution will be uploaded.
+
+---
+
+#### Exercise for the Exam 02 - Infrared Laser Beam
+This exercise was mainly a review of some known concept, although the need to understand the underlying stochastic process was a nice twist that made the exercise not trivial.
+
+---
+
+
+#### Exam Simulation - June 2020
+
+
 
 ---
